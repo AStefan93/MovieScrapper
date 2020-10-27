@@ -1,39 +1,86 @@
 # MovieScrapper
 Titles.txt contains a list of movies that appear in all three websites.
 
-Titles2.txt contains a list of movies that appear in at least two different sites.
 Citizen Kane
+
 The Godfather
+
 Rear Window
+
 Casablanca
-Boyhood
-Vertigo
-Singin' in the Rain
-City Lights
-Moonlight
-Pinocchio
-North by Northwest
-All About Eve
-The Third Man
-Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb
+
 Psycho
-Roma
-12 Angry Men
-Manchester by the Sea
-The Maltese Falcon
-12 Years a Slave
-The Lady Eve
-Gravity
+
 Toy Story
+
+Titles2.txt contains a list of movies that appear in at least two different sites.
+
+Citizen Kane
+
+The Godfather
+
+Rear Window
+
+Casablanca
+
+Boyhood
+
+Vertigo
+
+Singin' in the Rain
+
+City Lights
+
+Moonlight
+
+Pinocchio
+
+North by Northwest
+
+All About Eve
+
+The Third Man
+
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb
+
+Psycho
+
+Roma
+
+12 Angry Men
+
+Manchester by the Sea
+
+The Maltese Falcon
+
+12 Years a Slave
+
+The Lady Eve
+
+Gravity
+
+Toy Story
+
 The Bride of Frankenstein
+
 Snow White and the Seven Dwarfs
+
 Dunkirk
+
 Pulp Fiction
+
 The Irishman
+
 Shadow of a Doubt
+
 Inside Out
+
 Schindler's List
+
 Apocalypse Now
+
 Lady Bird
+
 The Lord of the Rings: The Return of the King
+
 La La Land
